@@ -15,3 +15,4 @@ int main() {
     printGreeting(targetUser);
     return 0;
 }
+// Задача 1
