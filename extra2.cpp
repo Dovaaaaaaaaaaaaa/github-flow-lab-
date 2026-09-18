@@ -1,1 +1,2 @@
 void funcA() {}
+void funcB() {}
