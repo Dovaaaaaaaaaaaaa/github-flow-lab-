@@ -16,3 +16,4 @@ int main() {
     return 0;
 }
 // Задача 1
+const std::string taskName = "Задача 2";
